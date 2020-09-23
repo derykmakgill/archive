@@ -11,7 +11,7 @@ I've been working on a new electronic cash system that's fully
 peer-to-peer, with no trusted third party.
 
 The paper is available at:
-http://www.bitcoin.org/bitcoin.pdf
+[http://www.bitcoin.org/bitcoin.pdf](http://www.bitcoin.org/bitcoin.pdf)
 
 The main properties:
 Double-spending is prevented with a peer-to-peer network.
