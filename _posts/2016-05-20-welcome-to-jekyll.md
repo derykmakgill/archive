@@ -2,6 +2,10 @@
 layout: post
 ---
 
+```
+Bitcoin P2P e-cash paper
+Satoshi Nakamoto satoshi at vistomail.com
+Fri Oct 31 14:10:00 EDT 2008
 
 I've been working on a new electronic cash system that's fully
 peer-to-peer, with no trusted third party.
@@ -46,3 +50,5 @@ Satoshi Nakamoto
 ---------------------------------------------------------------------
 The Cryptography Mailing List
 Unsubscribe by sending "unsubscribe cryptography" to majordomo at metzdowd.com
+
+```
